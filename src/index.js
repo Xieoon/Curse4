@@ -4,6 +4,7 @@ import startScreen from './screens/start_screen.js'
 window.store={
     dificulty:'',
     gameStatus:'',
+    clicCounter:0,
 
 }
 
